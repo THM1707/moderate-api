@@ -11,7 +11,7 @@ class Item(BaseModel):
 
 
 class FormData(BaseModel):
-    username: str = Field(...,  max_length=3)
+    username: str = Field(..., max_length=3)
     password: str
 
 
