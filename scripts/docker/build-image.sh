@@ -1,1 +1,1 @@
-docker build -t moderate-api .
+docker build -t moderate-api /Users/minh/Documents/PythonWorkspace/moderate-api
